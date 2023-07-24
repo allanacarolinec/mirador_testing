@@ -1,0 +1,24 @@
+{
+    "anchor": {
+        "name": "ipanema",
+        "physical_width": 0.5,
+        "coordinate": [-30.14153, -51.21321],
+        "altitude": 46.0,
+        "bearing_degrees": 30,
+        "orientation": "horizontal"
+    },
+    "points_of_interest": [
+        {
+            "name": "Canary Wharf",
+            "coordinate": [-30.14162, -51.21311],
+            "altitude": 235
+        },
+        {
+            "name": "O2 Arena",
+            "coordinate": [-30.14171, -51.21322],
+            "altitude": 52
+        }
+    ],
+    "version": "1.0"
+}
+   

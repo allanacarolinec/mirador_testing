@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mirador",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HyperARCo/Mirador.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "28587d79a520dc8c91cab707b8b4b717cebbc6ba"
+      }
+    }
+  ],
+  "version" : 2
+}
